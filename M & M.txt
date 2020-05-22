@@ -59,3 +59,9 @@ Too slow the express is
 
 2020年5月 【我教敏儿用Git】 
 这一步是从远程同步：D
+
+2020年5月22日 晚上 阿敏教Miner Git
+remote -- fetch from origin
+merge -- local merge -- master
+更新 M & M
+Stage changed -- commit +标题 

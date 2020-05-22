@@ -65,3 +65,6 @@ remote -- fetch from origin
 merge -- local merge -- master
 更新 M & M
 Stage changed -- commit +标题 
+
+
+sign in github and find the M&M and edit
